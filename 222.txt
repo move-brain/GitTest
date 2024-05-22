@@ -1,0 +1,4 @@
+git fetch 
+git rebase
+git log
+git push zhh 
